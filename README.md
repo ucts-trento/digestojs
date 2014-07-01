@@ -1,2 +1,4 @@
 digestojs
 =========
+
+documentazione da scrivere
